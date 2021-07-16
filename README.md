@@ -1,0 +1,4 @@
+# MarioGame
+玛丽奥大战魂斗罗java小游戏，大学里java课程的一个多线程实验
+使用了swing中的paint和repaint
+实现了一些基本功能，但是bug还有挺多，希望可以交流学习

@@ -4,10 +4,10 @@
 实现了一些基本功能，但是bug还有挺多，希望可以交流学习
 ## 开始
 打开exe文件就直接开始了游戏
-https://github.com/WFUing/MarioGame/blob/main/start.png
+![开始](https://github.com/WFUing/MarioGame/blob/main/start.png)
 ## 过程
 中间需要使用j/k，来发射子弹/跳跃，打败路上的虫子和魂斗罗
-https://github.com/WFUing/MarioGame/blob/main/process.png
+![过程](https://github.com/WFUing/MarioGame/blob/main/process.png)
 ## boss
 打败boss就赢了！
-https://github.com/WFUing/MarioGame/blob/main/boss.png
+![boss](https://github.com/WFUing/MarioGame/blob/main/boss.png)
